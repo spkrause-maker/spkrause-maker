@@ -22,8 +22,8 @@ A research-based multiplication game I built for my third grader. Each superhero
 
 - **Consulten:** Co-founder and Head of Product. Building the product end to end with zero engineering headcount.
 - **HUGO:** Founding PM on a two-sided labor marketplace. Built $0 → $25M pipeline in 6 months.
-- **Gopuff:** Led a three-country European expansion of a local quick-commerce marketplace (language, geolocation, currency, legal).
+- **Gopuff:** Ran an optimization program in the consumer shopping funnel that produced $20 mil in annual GMV.
+- **AudienceView:** Managed consumer brands TheaterMania and WhatsOnStage. Grew subscriber audience from 800k to 1.4m.
 - **Romio:** Launched local service categories from zero, including handyperson services.
-- **AudienceView:** Managed consumer brands TheaterMania and WhatsOnStage.
 
 **Strengths:** two-sided marketplaces · cold-start problems · product discovery and experimentation · internationalization
