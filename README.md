@@ -4,6 +4,8 @@
 
 I start with the strategy question: where to play, and why now. Then I go find out whether it's true. I'd rather put a working prototype in front of real users than debate a spec, so most of my ideas get tested before they get built. The projects below are two of those experiments.
 
+**[Connect with me on LinkedIn →](https://www.linkedin.com/in/krausescott/)**
+
 ## Projects
 
 ### [AI Profile Builder](https://github.com/spkrause-maker/ai-profile-builder) · [▶ Try it](https://claude.ai/artifact/RSAgJpLEWzWwSz1Qe97o3x)
